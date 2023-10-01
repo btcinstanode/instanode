@@ -45,7 +45,7 @@ makekey() {
 				printf " Unable to delete file, resetting\n"
 			else
 				printf " File deleted\n"
-				if ! ssh-keygen -t rsa -C "$USERe" -f "$1"; then
+				if ! ssh-keygen -t rsa -C "$USER" -f "$1"; then
 					printf " Unable to generate key, resetting\n"
 				fi
 			fi
