@@ -1,3 +1,5 @@
-#set -eu
-##set -o pipefail
-#source ../util.sh
+#!/bin/bash
+set -eu
+set -o pipefail
+
+source ../etc/util.sh
