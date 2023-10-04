@@ -11,4 +11,5 @@ A set of scripts to automatically deploy a Bitcoin Core node on a Debian/Ubuntu 
 Support the instanode project!
 
 BTC: 15DqNJmLut5fgu5VU1CPMFwpUH1shzKgJZ
+
 LN: <a href="https://getalby.com/p/shinoafores">GetAlby</a>
