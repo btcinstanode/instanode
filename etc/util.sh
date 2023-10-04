@@ -9,6 +9,10 @@ GREEN="\e[32m"
 BLUE="\e[34m"
 YELLOW="\e[33m"
 
+cls() {
+printf "\ec"
+}
+
 sep() {
     printf -- ' %80s\n' ' ' | tr ' ' '-'
 }
@@ -27,6 +31,13 @@ printf "\e[48;2;0;0;0m          \e[38;2;3;0;8;48;2;0;0;0m▄\e[38;2;251;159;8;48
 ";
 }
 
+# Check for root privs
+chkroot() {
+if [ "$(id -u)" -ne 0 ]; then
+  printf >&2 "Error: You must run the installer as root or with sudo! Exiting...\n"
+  exit 1
+fi
+}
 
 # Kill installer if certain items not found ############
 bail() {

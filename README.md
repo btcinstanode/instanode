@@ -6,7 +6,7 @@ A set of scripts to automatically deploy a Bitcoin Core node on a Debian/Ubuntu 
 
 "Setting up a BTC node should not be a headache" - <a href="https://snort.social/p/npub12rzunrxvx89f78h4df284lzvkjqetljkq0200p62ygwmjevx0j8qhehrv9">@RexDamascus</a>
 
-<pre>----------------------------------------</pre>
+----------------------------------------
 
 Support the instanode project!
 
