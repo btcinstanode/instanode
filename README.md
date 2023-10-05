@@ -8,6 +8,7 @@ A set of scripts to automatically deploy a Bitcoin Core node on a Debian/Ubuntu 
 
 ----------------------------------------
 Project contacts (nostr):
+
 <a href="https://snort.social/p/npub12rzunrxvx89f78h4df284lzvkjqetljkq0200p62ygwmjevx0j8qhehrv9">@RexDamascus - npub12rzunrxvx89f78h4df284lzvkjqetljkq0200p62ygwmjevx0j8qhehrv9</a>
 
 <a href="https://snort.social/p/npub1f0restzwusrck2k62dq2ueelrrfmdfnyk8uhart8n8nqwn94cwwsppm0sa">@shinohai - npub1f0restzwusrck2k62dq2ueelrrfmdfnyk8uhart8n8nqwn94cwwsppm0sa</a>
