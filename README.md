@@ -14,6 +14,7 @@ Project contacts (nostr):
 
 Telegram discussion and support group:
 <a href="https://t.me/+t4PWOK0vRpFmNzVh">Instanode on Telegram</a>
+
 ----------------------------------------
 
 Support the instanode project!
